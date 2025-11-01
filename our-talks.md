@@ -2122,6 +2122,215 @@ Claude cannot run ComfyUI. This is not a problem to hide or work around. It's a 
 
 ---
 
+## 2025-11-02 | Git Repository Setup & Session Transition Preparation
+
+### Git Repository Successfully Created
+
+**Repository Details**:
+- **GitHub URL**: https://github.com/ConstantineVer1/learning-project-comfyui-chiken-creature
+- **Remote**: `origin` (SSH)
+- **SSH URL**: git@github.com:ConstantineVer1/learning-project-comfyui-chiken-creature.git
+- **Branch**: `master`
+- **First Commit**: `ef85b82` - "1 Nov 2025"
+
+**Setup Steps Completed**:
+1. ✅ Verified Git configuration (user.name, user.email)
+2. ✅ Verified GitHub CLI authentication (logged in as ConstantineVer1)
+3. ✅ Initialized Git repository (`git init`)
+4. ✅ Staged all files (`git add .`)
+5. ✅ Created initial commit with 16 files
+6. ✅ Created public GitHub repository via `gh repo create`
+7. ✅ Pushed to remote (`origin/master`)
+
+**Files Committed (16 total)**:
+- cloude.md (COMPLETELY REWRITTEN with new methodology)
+- our-talks.md (comprehensive error documentation)
+- method1-simple-inpainting.md (BROKEN - requires student verification)
+- method1-simple-inpainting-BROKEN.md (archived broken version)
+- lesson-1.md (Concept teaching materials)
+- All workflow .json files
+- All other project documentation
+
+**GitHub Authentication Status**:
+- ✅ Logged in as ConstantineVer1
+- ✅ SSH key configured: `/home/cd/.ssh/id_ed25519.pub`
+- ✅ Git protocol: SSH (no HTTPS prompts)
+
+### Current Project Status for Next Session
+
+**Working Directory**: `/home/cd/Desktop/learning-project-comfyui-chiken-creature/`
+
+**Core Files Overview**:
+
+1. **[cloude.md](cloude.md)** - Teaching Methodology
+   - ✅ Completely rewritten (not appended)
+   - ✅ Acknowledges Claude CANNOT run ComfyUI
+   - ✅ Student-First Documentation approach
+   - ✅ Verification Protocol for every node
+   - ✅ No Assumptions rule
+   - ✅ Alternative Teaching Approach (concepts over implementation)
+   - ✅ 10-point Commitment
+
+2. **[our-talks.md](our-talks.md)** - Session Log
+   - ✅ Complete history of Node.js learning (Level 1.1 complete)
+   - ✅ Documentation of all 6 ComfyUI teaching errors
+   - ✅ Methodology transformation documented
+   - ✅ Git setup documented
+   - ✅ Ready for next session continuation
+
+3. **[method1-simple-inpainting.md](exercises/basics/method1-simple-inpainting.md)** - UNUSABLE
+   - ⚠️ Status: BROKEN - contains 6 documented errors
+   - ⚠️ Cannot be fixed without student-verified workflow
+   - ⚠️ Requires Student-First Documentation approach
+   - ⚠️ DO NOT USE for teaching until student builds working solution
+
+4. **[lesson-1.md](lessons/lesson-1.md)** - Concept Teaching Materials
+   - ✅ Contains SAM concepts prepared for student
+   - ✅ Ready for interactive teaching session
+   - ⚠️ Student interrupted before completing Q1-Q8 answers
+
+### Student's Current State
+
+**Last Activity**:
+- Started answering Concept 1 questions (Q1-Q4 answered)
+- Requested Git repository setup before switching PC
+- Plans to continue in next session on different machine
+
+**Student's Answers to Concept 1 (for continuation)**:
+- **Q1**: SAM trained on 1B masks, uses Q/K/V attention mechanism
+- **Q2**: SAM uses prompt (bbox, point) as hint to find boundaries
+- **Q3**: Prefers automatic (bbox detector + SAM) for scalability
+- **Q4**: Partially answered - needs clarification on BBoxDetectorCombined output type
+
+**Remaining Work**:
+- Complete Concept 1 questions
+- Answer Concept 2 questions (ComfyUI Data Types)
+- Answer Concept 3 questions (Inpainting)
+- Practical Task 1: Investigate Impact Pack nodes
+- Practical Task 2: Build minimal SAM workflow
+- Then: Full chicken-human workflow documentation (student-verified)
+
+### Critical Reminders for Next Session
+
+**MUST REMEMBER**:
+
+1. **Teaching Approach Changed**:
+   - ❌ OLD: Document workflows → student implements → errors found
+   - ✅ NEW: Teach concepts → student implements → document student's solution
+   - ✅ NEVER document nodes without student verification
+
+2. **Interactive Learning Style**:
+   - ✅ Small chunks (2-3 questions at a time)
+   - ✅ Wait for student answers before proceeding
+   - ✅ Student asks their questions immediately
+   - ✅ NO long monologues with 8 questions at once
+
+3. **Verification Protocol**:
+   - For EVERY node documented:
+     1. Ask exact node name
+     2. Ask which custom node pack
+     3. Ask ALL input parameters
+     4. Ask ALL output types
+     5. Document VERBATIM
+     6. Ask student to verify
+     7. Student confirms or corrects
+
+4. **method1-simple-inpainting.md Status**:
+   - ⚠️ UNUSABLE - do not reference
+   - ⚠️ Contains 6 documented errors
+   - ⚠️ Requires complete rebuild with student verification
+
+5. **Student's Learning Style**:
+   - ✅ Deep conceptual understanding preferred
+   - ✅ Challenges incorrect explanations (good!)
+   - ✅ Wants to understand WHY, not just WHAT
+   - ✅ Hands-on practice after concepts
+   - ✅ Values accuracy over speed
+
+### Next Session Start Instructions
+
+**When student returns**:
+
+1. **Greet and acknowledge session transition**:
+   - "Welcome back! Git repository successfully set up and pushed to GitHub."
+   - Show repository URL: https://github.com/ConstantineVer1/learning-project-comfyui-chiken-creature
+
+2. **Resume from where we left off**:
+   - "We were working on Concept 1 (SAM). You answered Q1-Q4."
+   - "You had a question about Q4 - BBoxDetectorCombined output types."
+   - "Would you like to continue with Concept 1, or do you have questions first?"
+
+3. **If student wants to continue ComfyUI learning**:
+   - Address Q4 clarification
+   - Complete Concept 2 (Data Types) interactively
+   - Complete Concept 3 (Inpainting) interactively
+   - Then move to Practical Tasks
+
+4. **If student wants to work on something else**:
+   - Follow student's lead
+   - Apply new teaching methodology regardless of topic
+
+### Files Ready for Next Session
+
+**No changes needed to**:
+- ✅ cloude.md - methodology is solid
+- ✅ our-talks.md - complete history preserved
+- ✅ lesson-1.md - concept materials ready
+- ✅ All committed files in Git
+
+**Git commands for next session** (if needed):
+```bash
+# Check status
+git status
+
+# Pull any changes (if editing from another machine)
+git pull origin master
+
+# After making changes
+git add .
+git commit -m "descriptive message"
+git push origin master
+```
+
+### Summary for Claude in Next Session
+
+**Read this section first when student returns**:
+
+1. **Session Context**: This is a continuation session. Student switched PCs.
+
+2. **Teaching Methodology**: COMPLETELY CHANGED
+   - cloude.md was fully rewritten after 6 critical errors
+   - Student-First Documentation approach now mandatory
+   - Never document ComfyUI workflows without student verification
+   - Teach concepts → student builds → document student's solution
+
+3. **Student's Progress**:
+   - Completed Node.js Level 1.1 (event loop mastery)
+   - Started ComfyUI learning: Concept 1 partially complete
+   - Q1-Q4 answered, Q5-Q8 pending
+   - Practical tasks not started yet
+
+4. **Current Task**:
+   - Teaching SAM concepts, inpainting, ComfyUI data types
+   - Student will build minimal SAM workflow
+   - Then student will build full chicken-human workflow
+   - ONLY THEN document student's verified solution
+
+5. **Git Repository**:
+   - ✅ Set up and pushed to GitHub
+   - URL: https://github.com/ConstantineVer1/learning-project-comfyui-chiken-creature
+   - All files committed, clean working tree
+
+6. **Interaction Style**:
+   - Interactive, not monologue
+   - Small chunks (2-3 questions)
+   - Wait for student answers AND student's questions
+   - Student interrupts if approach is wrong → this is GOOD
+
+**Ready for next session. No further setup needed.**
+
+---
+
 ````
 
 ---
